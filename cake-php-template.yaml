@@ -290,7 +290,7 @@ parameters:
   displayName: PHP Version
   name: PHP_VERSION
   required: true
-  value: '7.1'
+  value: '7.3'
 - description: Maximum amount of memory the CakePHP container can use.
   displayName: Memory Limit
   name: MEMORY_LIMIT
